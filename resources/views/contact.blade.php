@@ -1,11 +1,12 @@
 @extends('header')
 
+@section('title', 'Contact Us')
 
 @section('content')
 
-<h1>Contact Us</h1>
+<h1 align="center">Contact Us</h1>
 
-<p>Company Name</p>
-<p>DEVIL</p>
+<p align="center">Company Name</p>
+<p align="center">DEVIL</p>
 
 @endsection
